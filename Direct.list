@@ -1,6 +1,10 @@
 DOMAIN-SUFFIX,qwas.fun
 DOMAIN-SUFFIX,syncthing.net
+# clash-verge-rev ip check
+DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipapi.co
+DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,ipwho.is
 DOMAIN-SUFFIX,wsukwai.com
 DOMAIN-SUFFIX,yyzqta.com
 DOMAIN-SUFFIX,xinqiucc.com
