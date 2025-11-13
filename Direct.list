@@ -5,9 +5,14 @@ DOMAIN-SUFFIX,ip.sb
 DOMAIN-SUFFIX,ipapi.co
 DOMAIN-SUFFIX,ipapi.is
 DOMAIN-SUFFIX,ipwho.is
-DOMAIN-SUFFIX,wsukwai.com
-DOMAIN-SUFFIX,yyzqta.com
-DOMAIN-SUFFIX,xinqiucc.com
+# direct sites
 DOMAIN-SUFFIX,http.cat
 DOMAIN-SUFFIX,hf.space
 DOMAIN-SUFFIX,sony.tv
+# 微信网关
+DOMAIN-SUFFIX,wxgateway.com
+
+DOMAIN-SUFFIX,wsukwai.com
+DOMAIN-SUFFIX,yyzqta.com
+DOMAIN-SUFFIX,xinqiucc.com
+DOMAIN-SUFFIX,zhicyun.com
